@@ -1,5 +1,5 @@
 [build]
   publish = "dist"
   command = "npm run build"
-# [images]
-#   remote_images = ["https://poche24.wonderweb.ch/.*"]
+[images]
+  remote_images = ["https://poche24.wonderweb.ch/.*"]
